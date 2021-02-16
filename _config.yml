@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "carpe diem"
+title                    : "<B>carpe diem</B>"
 title_separator          : "-"
 name                     : &name "Florencio De los Reyes"
 description              : &description "personal description"
