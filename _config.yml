@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "carpe diem"
+title                    : "carpe diem: kiss me baby"
 title_separator          : "-"
 name                     : &name "Florencio De los Reyes"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Florencio D. De los Reyes"
+  name             : "<E><h5>Florencio D. De los Reyes</h5><E>"
   avatar           : "enzo.jpeg"
-  bio              : "try me"
+  bio              : "Mensch kann tun was er will; <br> er kann aber nicht wollen was er will."
   location         : "Ikoma City, Japan"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
