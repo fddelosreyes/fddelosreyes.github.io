@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "<E><h5>Florencio De los Reyes</h5><E>"
+  name             : "<E><h5>Florencio D. De los Reyes</h5><E>"
   avatar           : "enzo.jpeg"
-  bio              : "Mensch kann tun was er will; er kann aber nicht wollen was er will."
+  bio              : "Mensch kann tun was er will; <br> er kann aber nicht wollen was er will."
   location         : "Ikoma City, Japan"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
