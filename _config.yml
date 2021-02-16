@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "<center>carpe diem/kiss me baby one more time</center>"
+title                    : "<h3>carpe diem</h3> <br> <h6>kiss me baby one more time</h6>"
 title_separator          : "-"
 name                     : &name "Florencio De los Reyes"
 description              : &description "personal description"
