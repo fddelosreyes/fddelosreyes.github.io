@@ -11,5 +11,3 @@ citation: 'De los Reyes FD, FujiedaT, Takeuchi A, Kawai T, Nonoguchi Y. Isolatio
 <b>Abstract</b>. Boron nitride nanotubes (BNNTs) are simultaneously isolated and dispersed in organic solvents using a non‐aromatic and highly flexible polymer ethyl cellulose (EC). The colloidal dispersion containing individualized EC‐wrapped BNNTs is stabilized via non‐covalent functionalization through CH‐π and OH‐π interactions between EC and BNNTs. FESEM, TEM, UV‐VIS, FT‐IR, and TG analyses confirm the efficiency of using a simplified and less destructive method without prior heat treatment to enhance the purity and dispersibility of BNNTs in our designed system. This provides a practical approach to the purification and dispersion of BNNTs from a bulk‐produced source, for the fabrication of materials that require large amount of high‐quality BNNTs.
 
 [Download paper here](https://onlinelibrary.wiley.com/doi/epdf/10.1002/nano.202000265)
-
-Recommended citation: De los Reyes FD, FujiedaT, Takeuchi A, Kawai T, Nonoguchi Y. Isolation of exfoliated boron nitride nanotubes via ethylcellulose wrapping. <i>Nano select</i>. 2020;1-8.
