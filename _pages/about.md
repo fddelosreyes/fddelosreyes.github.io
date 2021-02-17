@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My current research focuses on the sorting process of boron nitride nanotube (BNNT). BNNT is a new class of advanced materials, similar but with other exceptional properties, to carbon nanotubes. The sorting process involves synthesis, purification, separation based on length, diameter and chirality, and alignment. These are all aimed to enhance their properties for various applications on wearable materials, space suits and sensors, and radiation-monitoring devices.
+<h6>My current research focuses on the sorting process of boron nitride nanotube (BNNT). BNNT is a new class of advanced materials, similar but with other exceptional properties, to carbon nanotubes. The sorting process involves synthesis, purification, separation based on length, diameter and chirality, and alignment. These are all aimed to enhance their properties for various applications on wearable materials, space suits and sensors, and radiation-monitoring devices.</h6>
 
-I am now in my second year of Ph.D. under the [Photonic Molecular Science Laboratory](https://mswebs.naist.jp/LABs/kawai/index.html) of [Nara Institute of Science and Technology (NAIST)](http://www.naist.jp/)with Kawai-sensei and Nonoguchi-sensei. Working on the multidisciplinary program of Data Science in NAIST, I also aim to employ data-driven & AI-driven sciences to my research, especially for speed-up processing and application of BNNTs in the field. 
+<h5>I am now in my second year of Ph.D. under the [Photonic Molecular Science Laboratory](https://mswebs.naist.jp/LABs/kawai/index.html) of [Nara Institute of Science and Technology (NAIST)](http://www.naist.jp/)with Kawai-sensei and Nonoguchi-sensei. Working on the multidisciplinary program of Data Science in NAIST, I also aim to employ data-driven & AI-driven sciences to my research, especially for speed-up processing and application of BNNTs in the field.</h5>
 
 A data-driven personal website
 ======
