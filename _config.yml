@@ -102,7 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="fddelosreyes"><a class="LI-simple-link" href='https://jp.linkedin.com/in/fddelosreyes?trk=profile-badge'>Florencio D. De los Reyes</a></div>
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
