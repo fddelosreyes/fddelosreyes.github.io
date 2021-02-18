@@ -10,9 +10,6 @@ redirect_from:
 
 My current research focuses on the sorting process of boron nitride nanotube (BNNT). BNNT is a new class of advanced materials, similar but with other exceptional properties, to carbon nanotubes. The sorting process involves synthesis, purification, separation based on length, diameter and chirality, and alignment. These are all aimed to enhance their properties for various applications on wearable materials, space suits and sensors, and radiation-monitoring devices.
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="fddelosreyes"><a class="LI-simple-link" href='https://jp.linkedin.com/in/fddelosreyes?trk=profile-badge'>Florencio D. De los Reyes</a></div>
-
 I am now in my second year of Ph.D. under the [Photonic Molecular Science Laboratory](https://mswebs.naist.jp/LABs/kawai/index.html) of [Nara Institute of Science and Technology (NAIST)](http://www.naist.jp/)with Kawai-sensei and Nonoguchi-sensei. Working on the multidisciplinary program of Data Science in NAIST, I also aim to employ data-driven & AI-driven sciences to my research, especially for speed-up processing and application of BNNTs in the field.
 
 A data-driven personal website
